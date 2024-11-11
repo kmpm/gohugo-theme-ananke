@@ -67,7 +67,7 @@ This theme uses the "Tachyons" CSS library. This will allow you to manipulate th
 2. Add the theme's repo to your `config.toml`:
 
    ```toml
-   theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+   theme = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
    ```
 
 ### As Git Submodule
